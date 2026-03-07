@@ -1,4 +1,1 @@
-export const HEADER_SIZE_MD = '27px';
-export const HEADER_SIZE_LG = '40px';
-
-export const WINDOW_CONTROLS_WIDTH = '10.5rem';
+export const PROJECT_ID = '5ac767d9b06f58cd7a715bfd408c4332';
