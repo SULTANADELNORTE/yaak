@@ -1,18 +1,28 @@
-<p align="center">
-  <a href="https://github.com/JamesIves/github-sponsors-readme-action">
-    <img width="200px" src="https://github.com/mountain-loop/yaak/raw/main/crates-tauri/yaak-app/icons/icon.png">
-  </a>
-</p>
-
-<h1 align="center">
-  💫 Yaak ➟ Desktop API Client 💫
-</h1>
-
-<p align="center">
-    A fast, privacy-first API client for REST, GraphQL, SSE, WebSocket, and gRPC – built with Tauri, Rust, and React.
-</p>
-<p align="center">
- Development is funded by community-purchased <a href="https://yaak.app/pricing">licenses</a>. You can also <a href="https://github.com/sponsors/gschier">become a sponsor</a> to have your logo appear below. 💖
+{
+  "name": "Sultana del Norte",
+  "symbol": "SNUSD",
+  "description": "Stablecoin backed 1:1 with USD - Monterrey, MX.",
+  "image": "https://raw.githubusercontent.com/Edgar-P-Sultana/Sultana-del-Norte/main/logo.png",
+  "attributes": [
+    {
+      "trait_type": "Region",
+      "value": "Monterrey"
+    },
+    {
+      "trait_type": "Backing",
+      "value": "1:1 USD"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Edgar-P-Sultana/Sultana-del-Norte/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
 </p>
 <br>
 
@@ -24,49 +34,3 @@
 <p align="center">
   <!-- sponsors-base --><a href="https://github.com/seanwash"><img src="https:&#x2F;&#x2F;github.com&#x2F;seanwash.png" width="50px" alt="User avatar: seanwash" /></a>&nbsp;&nbsp;<a href="https://github.com/jerath"><img src="https:&#x2F;&#x2F;github.com&#x2F;jerath.png" width="50px" alt="User avatar: jerath" /></a>&nbsp;&nbsp;<a href="https://github.com/itsa-sh"><img src="https:&#x2F;&#x2F;github.com&#x2F;itsa-sh.png" width="50px" alt="User avatar: itsa-sh" /></a>&nbsp;&nbsp;<a href="https://github.com/dmmulroy"><img src="https:&#x2F;&#x2F;github.com&#x2F;dmmulroy.png" width="50px" alt="User avatar: dmmulroy" /></a>&nbsp;&nbsp;<a href="https://github.com/timcole"><img src="https:&#x2F;&#x2F;github.com&#x2F;timcole.png" width="50px" alt="User avatar: timcole" /></a>&nbsp;&nbsp;<a href="https://github.com/VLZH"><img src="https:&#x2F;&#x2F;github.com&#x2F;VLZH.png" width="50px" alt="User avatar: VLZH" /></a>&nbsp;&nbsp;<a href="https://github.com/terasaka2k"><img src="https:&#x2F;&#x2F;github.com&#x2F;terasaka2k.png" width="50px" alt="User avatar: terasaka2k" /></a>&nbsp;&nbsp;<a href="https://github.com/andriyor"><img src="https:&#x2F;&#x2F;github.com&#x2F;andriyor.png" width="50px" alt="User avatar: andriyor" /></a>&nbsp;&nbsp;<a href="https://github.com/majudhu"><img src="https:&#x2F;&#x2F;github.com&#x2F;majudhu.png" width="50px" alt="User avatar: majudhu" /></a>&nbsp;&nbsp;<a href="https://github.com/axelrindle"><img src="https:&#x2F;&#x2F;github.com&#x2F;axelrindle.png" width="50px" alt="User avatar: axelrindle" /></a>&nbsp;&nbsp;<a href="https://github.com/jirizverina"><img src="https:&#x2F;&#x2F;github.com&#x2F;jirizverina.png" width="50px" alt="User avatar: jirizverina" /></a>&nbsp;&nbsp;<a href="https://github.com/chip-well"><img src="https:&#x2F;&#x2F;github.com&#x2F;chip-well.png" width="50px" alt="User avatar: chip-well" /></a>&nbsp;&nbsp;<a href="https://github.com/GRAYAH"><img src="https:&#x2F;&#x2F;github.com&#x2F;GRAYAH.png" width="50px" alt="User avatar: GRAYAH" /></a>&nbsp;&nbsp;<a href="https://github.com/flashblaze"><img src="https:&#x2F;&#x2F;github.com&#x2F;flashblaze.png" width="50px" alt="User avatar: flashblaze" /></a>&nbsp;&nbsp;<a href="https://github.com/Frostist"><img src="https:&#x2F;&#x2F;github.com&#x2F;Frostist.png" width="50px" alt="User avatar: Frostist" /></a>&nbsp;&nbsp;<!-- sponsors-base -->
 </p>
-
-![Yaak API Client](https://yaak.app/static/screenshot.png)
-
-
-## Features
-
-Yaak is an offline-first API client designed to stay out of your way while giving you everything you need when you need it. 
-Built with [Tauri](https://tauri.app), Rust, and React, it’s fast, lightweight, and private. No telemetry, no VC funding, and no cloud lock-in.  
-
-
-### 🌐 Work with any API
-
-- Import collections from Postman, Insomnia, OpenAPI, Swagger, or Curl.
-- Send requests via REST, GraphQL, gRPC, WebSocket, or Server-Sent Events.
-- Filter and inspect responses with JSONPath or XPath.
-
-### 🔐 Stay secure
-- Use OAuth 2.0, JWT, Basic Auth, or custom plugins for authentication.
-- Secure sensitive values with encrypted secrets. 
-- Store secrets in your OS keychain.
-
-### ☁️ Organize & collaborate
-- Group requests into workspaces and nested folders.
-- Use environment variables to switch between dev, staging, and prod.
-- Mirror workspaces to your filesystem for versioning in Git or syncing with Dropbox.
-
-### 🧩 Extend & customize
-- Insert dynamic values like UUIDs or timestamps with template tags.
-- Pick from built-in themes or build your own.
-- Create plugins to extend authentication, template tags, or the UI.
-
-
-## Contribution Policy
-
-> [!IMPORTANT]
-> Community PRs are currently limited to bug fixes and small-scope improvements.
-> If your PR is out of scope, link an approved feedback item from [yaak.app/feedback](https://yaak.app/feedback).
-> See [`CONTRIBUTING.md`](CONTRIBUTING.md) for policy details and [`DEVELOPMENT.md`](DEVELOPMENT.md) for local setup.
-
-## Useful Resources
-
-- [Feedback and Bug Reports](https://feedback.yaak.app)
-- [Documentation](https://yaak.app/docs)
-- [Yaak vs Postman](https://yaak.app/alternatives/postman)
-- [Yaak vs Bruno](https://yaak.app/alternatives/bruno)
-- [Yaak vs Insomnia](https://yaak.app/alternatives/insomnia)
