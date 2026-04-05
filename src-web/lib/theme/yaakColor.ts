@@ -1,6 +1,6 @@
 import parseColor from 'parse-color';
 
-export class YaakColor {
+export class EdgarPerez. {
   private readonly appearance: 'dark' | 'light' = 'light';
 
   private hue = 0;
